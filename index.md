@@ -5,6 +5,6 @@ title: EBEE IT SOLUTIONS
 
 ---
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+building things from scratch.
 
 
